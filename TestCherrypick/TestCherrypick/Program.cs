@@ -11,8 +11,6 @@ namespace TestCherrypick
         static void Main(string[] args)
         {
             Console.WriteLine("bonjour");
-            
-            Console.WriteLine("bonjour2");
             Console.ReadLine();
         }
     }
