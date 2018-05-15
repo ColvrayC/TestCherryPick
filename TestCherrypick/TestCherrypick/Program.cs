@@ -10,6 +10,8 @@ namespace TestCherrypick
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bonjour");
+            Console.ReadLine();
         }
     }
 }
